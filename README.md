@@ -9,11 +9,13 @@ Hi, I'm **Rahul Biswas** 👋
 
 ---
 
-## 📊 GitHub Stats:
+### 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=rahulbiswas09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=rahulbiswas09&theme=tokyonight&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbiswas09&theme=tokyonight&hide_border=false&layout=compact)  
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulbiswas09&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true&hide_border=false)
+
+![Rahul's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahulbiswas09&theme=tokyonight&hide_border=false)
+
+![Rahul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbiswas09&theme=tokyonight&hide_border=false&layout=compact)
 
 <div align="center">
   <img src="https://media1.tenor.com/m/GUg4S7RKSuoAAAAd/elden-ring-goty.gif" height="160" />
@@ -40,10 +42,6 @@ Hi, I'm **Rahul Biswas** 👋
 
 ---
 
-## 🚀 Featured Projects:
-- 🔹 [**AI-Powered App**](#) – AI integration for automation.
-- 🔹 [**Secure Backend API**](#) – Fast, secure API built with Node.js.
-- 🔹 [**ML Model Deployment**](#) – Deploying ML models with FastAPI & Flask.
 
 ---
 
